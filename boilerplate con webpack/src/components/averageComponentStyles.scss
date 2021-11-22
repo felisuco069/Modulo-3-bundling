@@ -1,0 +1,13 @@
+$background: rgb(160, 231, 231);
+
+.container {
+  background-color: $background;
+  display: flex;
+  padding: 2rem;
+  align-items: center;
+}
+
+img {
+  width: 15%;
+  padding-left: 1rem;
+}
